@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News Application</string>
+    <string name="apikey"><![CDATA[https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=b9280aa32a4c4ce691a776e1722f1b35]]></string>
+</resources>
